@@ -14,8 +14,6 @@ sections:
       https://preview--beige-spinach-41f5a.staging.stackbit.dev/images/hero.png
 
 
-
-
       ![](https://preview--beige-spinach-41f5a.staging.stackbit.dev/images/hero.png)
 
 
